@@ -20,7 +20,7 @@
 
 ## Sobre o time
 
-O **Team Vanguard** é o time de **Desenvolvimento** do **Grupo Excelência**, responsável por projetar, construir e evoluir soluções digitais com foco em:
+O **Time Vanguard** é o Grupo de **Desenvolvimento** do **Grupo Excelência**, responsável por projetar, construir e evoluir soluções digitais com foco em:
 
 - organização
 - confiabilidade
