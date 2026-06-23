@@ -194,7 +194,7 @@ Este espaço representa o time de desenvolvimento do Grupo Excelência e pode se
 
 <div align="center">
 
-**Team Vanguard**  
+**Time Vanguard**  
 Desenvolvimento com estrutura, clareza e evolução contínua.
 
 </div>
