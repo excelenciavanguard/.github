@@ -56,24 +56,14 @@ flowchart LR
     L2[Lucas]
 
     GE --> DV --> TV
-    TV --> BE
-    TV --> FE
-    BE --> L1
-    BE --> N1
-    FE --> L2
+    TV --> L2
+    TV --> N1
+    TV --> L1
+
 ```
 
 ---
 
-## Distribuição do time
-
-```mermaid
-pie title Composição do Team Vanguard
-    "Backend" : 2
-    "Frontend" : 1
-```
-
----
 
 ## Áreas de atuação
 
