@@ -34,12 +34,11 @@ Nosso objetivo é transformar necessidades internas em sistemas claros, funciona
 
 ## Integrantes
 
-### Backend
-- **Luis**
 - **Nathan**
-
-### Frontend
 - **Lucas**
+- **Luis**
+
+
 
 ---
 
