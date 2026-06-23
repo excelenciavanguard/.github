@@ -34,6 +34,12 @@ Nosso objetivo é transformar necessidades internas em sistemas claros, funciona
 
 ## Integrantes
 
+Gerente de Projetos:
+
+- **Alex**
+
+Equipe:
+
 - **Nathan**
 - **Lucas**
 - **Luis**
