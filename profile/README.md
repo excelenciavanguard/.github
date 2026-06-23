@@ -49,16 +49,16 @@ flowchart LR
     GE[Grupo Excelência]
     DV[Setor de Desenvolvimento]
     TV[Team Vanguard]
-    BE[Backend]
-    FE[Frontend]
+    A1[Alex]
     L1[Luis]
     N1[Nathan]
     L2[Lucas]
 
     GE --> DV --> TV
-    TV --> L2
-    TV --> N1
-    TV --> L1
+    TV --> A1
+    A1 --> L2
+    A1 --> N1
+    A1 --> L1
 
 ```
 
