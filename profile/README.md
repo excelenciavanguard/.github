@@ -43,7 +43,7 @@ Equipe:
 - **Nathan**
 - **Lucas**
 - **Luis**
-
+- **Gabriel**
 
 
 ---
@@ -59,12 +59,15 @@ flowchart LR
     L1[Luis]
     N1[Nathan]
     L2[Lucas]
+    G1[Gabriel]
 
     GE --> DV --> TV
     TV --> A1
     A1 --> L2
     A1 --> N1
     A1 --> L1
+    A1 --> G1
+
 
 ```
 
